@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projet.TP6</string>
+    <string name="title_activity_new_form_screen">NewFormScreen</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_pageinfo">Pageinfo</string>
+</resources>
